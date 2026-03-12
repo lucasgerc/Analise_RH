@@ -110,6 +110,7 @@ A maior concentração de demissões ocorre entre funcionários com **graduaçã
 
  - Seria interessante fazer uma análise mais profunda do problema, já que funcionários que possuem mestrado também tem uma alta taxa de desligamento da empresa
  - Isso pode sugerir maior mobilidade de profissionais qualificados no mercado.
+ - Profissionais graduados podem estar saindo por falta de plano de carreira
  - O fato de funcionários apenas com o ensino médio terem um menor número de demissões,pode indicar que nos cargos que exigem uma graduação, a exigência técnica é muito maior
 
 ---
